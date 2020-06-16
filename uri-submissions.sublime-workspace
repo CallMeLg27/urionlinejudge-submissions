@@ -1,0 +1,865 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"product\t(tuberia01.xml)"
+			],
+			[
+				"require",
+				"require_once"
+			],
+			[
+				"cards",
+				"cardsImgs\tabc"
+			],
+			[
+				"dele",
+				"deleteRow\tabc"
+			],
+			[
+				"add",
+				"addEventListener\tabc"
+			],
+			[
+				"checkOutO",
+				"checkOutOfBoundsLR\tabc"
+			],
+			[
+				"r",
+				"rotation\tabc"
+			],
+			[
+				"ro",
+				"rotate\tabc"
+			],
+			[
+				"checkO",
+				"checkOutOfBounds\tabc"
+			],
+			[
+				"check",
+				"checkOverlaps\tabc"
+			],
+			[
+				"tet",
+				"tetromino.fall\tabc"
+			],
+			[
+				"snak",
+				"snake-head\tabc"
+			],
+			[
+				"snake",
+				"snake-head\tabc"
+			],
+			[
+				"inter",
+				"intervalTime\tabc"
+			],
+			[
+				"start",
+				"startGame\tabc"
+			],
+			[
+				"game",
+				"gameover\tabc"
+			],
+			[
+				"span",
+				"spawnFood\tabc"
+			],
+			[
+				"class",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"co",
+				"counter\tabc"
+			],
+			[
+				"consol",
+				"console.log"
+			],
+			[
+				"lastMo",
+				"last_move\tabc"
+			],
+			[
+				"p1",
+				"p1_turn\tabc"
+			],
+			[
+				"shif",
+				"shiffman.jpg\tw:400 h:400"
+			],
+			[
+				"que",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"ww",
+				"wwo logo.png\tw:129 h:129"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"getTim",
+				"getTimeElapsed\tabc"
+			],
+			[
+				"setTiem",
+				"setTimeout\tabc"
+			],
+			[
+				"setTime",
+				"setTimeout\tabc"
+			],
+			[
+				"update",
+				"updateCards\tabc"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"pointsT",
+				"pointsToWin\tabc"
+			],
+			[
+				"points",
+				"points"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"card",
+				"cardsRevealed\tabc"
+			],
+			[
+				"click",
+				"clickHandler\tabc"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"u",
+				"undefined\t: object Global"
+			],
+			[
+				"cardRev",
+				"cardsRevealed\tabc"
+			],
+			[
+				"back",
+				"background-image\t(style.css)"
+			],
+			[
+				"s",
+				"style.css"
+			],
+			[
+				"comm",
+				"comment\tabc"
+			],
+			[
+				"em",
+				"email\t(contact.php)"
+			],
+			[
+				"rquei",
+				"require_once"
+			],
+			[
+				"qe",
+				"query\tabc"
+			],
+			[
+				"print",
+				"print_r\t(db.php)"
+			],
+			[
+				"get",
+				"getOptionSelected\t(survey.php)"
+			],
+			[
+				"curren",
+				"currentPHP"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"grid-temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"list-",
+				"list-style\tproperty"
+			],
+			[
+				"temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"login",
+				"loginErr\t(login.php)"
+			],
+			[
+				"regi",
+				"registros\t(db.php)"
+			],
+			[
+				"user",
+				"user_session.php"
+			],
+			[
+				"userE",
+				"userExist\t(user.php)"
+			],
+			[
+				"pass",
+				"password\tabc"
+			],
+			[
+				"use",
+				"username\tabc"
+			],
+			[
+				"hash",
+				"password_hash"
+			],
+			[
+				"va",
+				"validateUser\t(user.php)"
+			],
+			[
+				"Ero",
+				"ErrorException"
+			],
+			[
+				"U",
+				"User\t(user.php)"
+			],
+			[
+				"ver",
+				"password_verify"
+			],
+			[
+				"padding-",
+				"padding-top\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"web",
+				"websiteErr\tabc"
+			],
+			[
+				"ema",
+				"emailErr\tabc"
+			],
+			[
+				"htm",
+				"htmlspecialchars\tabc"
+			],
+			[
+				"slash",
+				"stripslashes"
+			],
+			[
+				"getE",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"main",
+				"main-header\t(style.css)"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"scr",
+				"script.js\tabc"
+			],
+			[
+				"scri",
+				"script.js"
+			],
+			[
+				"actress",
+				"actresses\t(App.js)"
+			],
+			[
+				"Actres",
+				"Actresses"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"Reac",
+				"React\tabc"
+			],
+			[
+				"react-",
+				"react-router-dom\t(actors.js)"
+			],
+			[
+				"actre",
+				"actresses.js"
+			],
+			[
+				"spac",
+				"space-around\tjustify-content"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"Actor",
+				"ActorsList\tabc"
+			],
+			[
+				"ACt",
+				"ActorsList\t(actors.js)"
+			],
+			[
+				"nav",
+				"nav-menu__link\tabc"
+			],
+			[
+				"ac",
+				"actress\t(App.js)"
+			],
+			[
+				"clas",
+				"className\t(App.js)"
+			],
+			[
+				"padid",
+				"padding-bottom\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tabc"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"w",
+				"w-resize\tcursor"
+			],
+			[
+				"text-decor",
+				"text-decoration\tproperty"
+			],
+			[
+				"border-",
+				"border-bottom\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"sty",
+				"style\t Style CSS"
+			],
+			[
+				"proce",
+				"process.php\tabc"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"F",
+				"FETCH_OBJ\tabc"
+			],
+			[
+				"art",
+				"articuloModelo\tabc"
+			],
+			[
+				"exception",
+				"ASSERT_EXCEPTION"
+			],
+			[
+				"modelo",
+				"modelo"
+			],
+			[
+				"vista",
+				"vista"
+			],
+			[
+				"par",
+				"parametros"
+			],
+			[
+				"call_u",
+				"call_user_func_array"
+			],
+			[
+				"metodo",
+				"metodoActual"
+			],
+			[
+				"controlador",
+				"controladorActual"
+			],
+			[
+				"filet",
+				"filter_var"
+			],
+			[
+				"p",
+				"p\t<p>"
+			],
+			[
+				"hi",
+				"highlight"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"leng",
+				"length\t: int Array"
+			],
+			[
+				"widt",
+				"width\t Style CSS"
+			],
+			[
+				"var",
+				"var"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"indenta",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 329.0,
+		"history":
+		[
+			"jj",
+			"k",
+			"exit",
+			"reset()",
+			"close()",
+			"exit(1)",
+			"exit()",
+			"print(a)",
+			"a=1",
+			"npm install -g eslint"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1001.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1004.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1005.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1006.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1007.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1008.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1009.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1010.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1011.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1012.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1013.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1014.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1015.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1016.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1017.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1018.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1029.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1096.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/2729.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1002.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/1003.cpp",
+		"/C/Users/LuisGerman/Google Drive/c++/urionlinejudge-submissions/akd",
+		"/C/Users/LuisGerman/Desktop/codigos/cocoons/cocoon02/src/main/resources/COB-INF/sitemap.xmap",
+		"/C/Users/LuisGerman/Desktop/codigos/cocoons/cocoon02/src/main/resources/COB-INF/tuberia04.xsl",
+		"/C/Users/LuisGerman/Desktop/codigos/cocoons/cocoon02/src/main/resources/COB-INF/tuberia03.xsl",
+		"/C/Users/LuisGerman/Desktop/codigos/cocoons/cocoon02/src/main/resources/COB-INF/tuberia02.xsl",
+		"/C/Users/LuisGerman/Desktop/codigos/cocoons/cocoon02/src/main/resources/COB-INF/tuberia01.xml",
+		"/C/xampp/htdocs/withoutphp/7games/frogger/index.php",
+		"/C/xampp/htdocs/withoutphp/7games/wack-a-mole/index.php",
+		"/C/xampp/htdocs/withoutphp/7games/snake/index.php",
+		"/C/xampp/htdocs/withoutphp/7games/header.php",
+		"/C/xampp/htdocs/withoutphp/7games/index.php",
+		"/C/xampp/htdocs/withoutphp/7games/css/estilos.css",
+		"/C/xampp/htdocs/withoutphp/7games/tetris/index.php",
+		"/C/xampp/htdocs/withoutphp/7games/space-invaders/index.php",
+		"/C/xampp/htdocs/withoutphp/7games/connect-4/index.php",
+		"/C/xampp/htdocs/withoutphp/7games/memory/script.js",
+		"/C/xampp/htdocs/withoutphp/7games/memory/index.php",
+		"/C/xampp/htdocs/withoutphp/7games/memory/style.css",
+		"/C/xampp/htdocs/withoutphp/7games/frogger/index.html",
+		"/C/xampp/htdocs/withoutphp/7games/7games.sublime-workspace",
+		"/C/xampp/htdocs/withoutphp/7games/connect-4/script.js",
+		"/C/xampp/htdocs/withoutphp/7games/index.html",
+		"/C/xampp/htdocs/withoutphp/7games/memory/index.html",
+		"/C/xampp/htdocs/withoutphp/7games/frogger/script.js",
+		"/C/xampp/htdocs/withoutphp/7games/frogger/style.css",
+		"/C/xampp/htdocs/withoutphp/7games/space-invaders/alien.js",
+		"/C/xampp/htdocs/withoutphp/7games/space-invaders/bullet.js",
+		"/C/xampp/htdocs/withoutphp/7games/space-invaders/player.js",
+		"/C/xampp/htdocs/withoutphp/7games/space-invaders/index.html",
+		"/C/xampp/htdocs/withoutphp/7games/space-invaders/sketch.js",
+		"/C/xampp/htdocs/withoutphp/7games/space-invaders/style.css",
+		"/C/xampp/htdocs/withoutphp/7games/tetris/index.html",
+		"/C/xampp/htdocs/withoutphp/7games/tetris/style.css",
+		"/C/xampp/htdocs/withoutphp/7games/tetris/script.js",
+		"/C/xampp/htdocs/withoutphp/7games/7games.sublime-project",
+		"/C/Users/LUISGE~1/AppData/Local/Temp/okx2rcv0.bmp",
+		"/C/Users/LUISGE~1/AppData/Local/Temp/qdmfrhn7.bmp",
+		"/C/xampp/htdocs/withoutphp/7games/snake/style.css",
+		"/C/xampp/htdocs/withoutphp/7games/snake/script.js",
+		"/C/xampp/htdocs/withoutphp/7games/snake/index.html",
+		"/C/xampp/htdocs/withoutphp/7games/connect-4/style.css",
+		"/C/xampp/htdocs/withoutphp/7games/connect-4/index.html",
+		"/C/xampp/htdocs/withoutphp/7games/wack-a-mole/script.js",
+		"/C/xampp/htdocs/withoutphp/7games/wack-a-mole/style.css",
+		"/C/xampp/htdocs/withoutphp/7games/wack-a-mole/index.html",
+		"/C/xampp/htdocs/withoutphp/7games/wack-a-mole/wack-a-mole.sublime-project",
+		"/C/Users/LuisGerman/Desktop/imagenes/shiffman.jpg",
+		"/C/Users/LuisGerman/Desktop/imagenes/hacked.png",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/views/products.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/css/styles.css",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/views/received_contact.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/views/contact.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/index.php",
+		"/C/xampp/htdocs/withphp/multiple_pages_test/config.php",
+		"/C/xampp/htdocs/multiple_pages_test/views/products.php",
+		"/C/xampp/htdocs/multiple_pages_test/contact",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/56. hashes/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/56. hashes/final.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/15 Fechas/fechas.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/28. creación de BD y tabla/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/vistas/vista-resultados.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/includes/survey.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/terminado/includes/db.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/11 Formulario radios.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/10 Formulario listas.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/13. include/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/35. Encuesta PDO/tutorial/includes/survey.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/07 ciclos/ciclos.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/08 GET y POST/index.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/01 sintaxis.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/02 strings.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/04 datos.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/05 Condicionales.php",
+		"/C/xampp/htdocs/Curso-PHP-MySQL/06 arreglos.php",
+		"/C/xampp/htdocs/loginBasico/index.php",
+		"/C/xampp/htdocs/loginBasico/includes/db.php",
+		"/C/xampp/htdocs/loginBasico/includes/user.php",
+		"/C/xampp/htdocs/loginBasico/includes/logout.php",
+		"/C/xampp/htdocs/loginBasico/vistas/login.php",
+		"/C/xampp/htdocs/loginBasico/vistas/home.php",
+		"/C/xampp/htdocs/loginBasico/config.php",
+		"/C/xampp/htdocs/loginBasico/db.php",
+		"/C/xampp/htdocs/loginBasico/user.php",
+		"/C/xampp/htdocs/loginBasico/vistas/home",
+		"/C/xampp/htdocs/loginBasico/style.css",
+		"/C/xampp/htdocs/loginBasico/css",
+		"/C/xampp/htdocs/loginBasico/vistas/login",
+		"/C/xampp/htdocs/loginBasico/user",
+		"/C/xampp/htdocs/loginBasico/db",
+		"/C/xampp/htdocs/securityInFormsPHP(w3schools)/style.css",
+		"/C/Users/LuisGerman/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/xampp/htdocs/securityInFormsPHP(w3schools)/index.php",
+		"/C/xampp/htdocs/securityInFormsPHP(w3schools)/index.ph",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/js/main.js",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/css/style.css",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/collection.php",
+		"/C/xampp/htdocs/alex/DigitalWeb-master/index.php",
+		"/C/xampp/htdocs/Design_Course_Crash_Course/script.js",
+		"/C/xampp/htdocs/Design_Course_Crash_Course/index.html",
+		"/C/xampp/htdocs/Design_Course_Crash_Course/style.css",
+		"/C/xampp/htdocs/thinking_in_react/script.js",
+		"/C/xampp/htdocs/thinking_in_react/style.css",
+		"/C/xampp/htdocs/thinking_in_react/data.json",
+		"/C/xampp/htdocs/thinking_in_react/index.html",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/data/actresses.js",
+		"/C/xampp/htdocs/youtubeProj/spa-react/src/components/films.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "uri-submissions.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\loginBasico\\loginBasico.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
